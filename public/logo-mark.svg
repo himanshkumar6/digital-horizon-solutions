@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 206" fill="none">
+  <defs>
+    <!-- Metallic Warm Gold Gradient for Top Wing -->
+    <linearGradient id="goldGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8C6615" />
+      <stop offset="25%" stop-color="#C2962A" />
+      <stop offset="60%" stop-color="#F2DC85" />
+      <stop offset="90%" stop-color="#E5C07B" />
+      <stop offset="100%" stop-color="#CA9E32" />
+    </linearGradient>
+
+    <!-- Metallic Brushed Silver/Platinum Gradient for Bottom Wing & Swoosh -->
+    <linearGradient id="silverGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C828D" />
+      <stop offset="35%" stop-color="#B8BEC8" />
+      <stop offset="75%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#E2E5EA" />
+    </linearGradient>
+  </defs>
+
+  <!-- Top D Shape (Metallic Gold) -->
+  <path d="M 17.0,4.0 L 17.0,138.0 L 19.0,137.0 L 23.0,133.0 L 31.0,127.0 L 51.0,114.0 L 72.0,103.0 L 97.0,93.0 L 100.0,93.0 L 103.0,91.0 L 110.0,89.0 L 136.0,83.0 L 158.0,80.0 L 171.0,79.0 L 185.0,79.0 L 186.0,78.0 L 195.0,78.0 L 193.0,73.0 L 193.0,69.0 L 191.0,66.0 L 191.0,63.0 L 183.0,46.0 L 179.0,40.0 L 175.0,35.0 L 166.0,26.0 L 160.0,21.0 L 146.0,13.0 L 128.0,7.0 L 118.0,5.0 L 107.0,4.0 Z" fill="url(#goldGrad)" />
+
+  <!-- Bottom D Shape with Horizon Swoosh (Metallic Silver) -->
+  <path d="M 245.0,83.0 L 219.0,83.0 L 201.0,85.0 L 172.0,90.0 L 149.0,96.0 L 132.0,102.0 L 115.0,109.0 L 113.0,111.0 L 105.0,114.0 L 97.0,119.0 L 95.0,119.0 L 80.0,128.0 L 68.0,136.0 L 56.0,145.0 L 41.0,158.0 L 29.0,171.0 L 28.0,171.0 L 14.0,187.0 L 7.0,196.0 L 4.0,201.0 L 95.0,201.0 L 105.0,200.0 L 119.0,197.0 L 128.0,194.0 L 139.0,189.0 L 152.0,181.0 L 162.0,173.0 L 170.0,165.0 L 180.0,152.0 L 185.0,143.0 L 190.0,132.0 L 195.0,114.0 L 197.0,96.0 L 201.0,94.0 L 221.0,88.0 L 225.0,88.0 L 229.0,86.0 L 233.0,85.0 L 238.0,85.0 L 242.0,84.0 L 243.0,83.0 Z" fill="url(#silverGrad)" />
+</svg>
